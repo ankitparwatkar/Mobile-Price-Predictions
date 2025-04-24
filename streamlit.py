@@ -90,10 +90,10 @@ price_map = {
 }
 
 price_images = {
-    0: r"C:\Users\ankit\OneDrive\Desktop\Mobile Price Range Prediction Project\nokia.jpg",
-    1: r"C:\Users\ankit\OneDrive\Desktop\Mobile Price Range Prediction Project\redmi.jpg",
-    2: r"C:\Users\ankit\OneDrive\Desktop\Mobile Price Range Prediction Project\iphone.jpg",
-    3: r"C:\Users\ankit\OneDrive\Desktop\Mobile Price Range Prediction Project\samsung.jpg",
+    0: r"nokia.jpg",
+    1: r"redmi.jpg",
+    2: r"iphone.jpg",
+    3: r"samsung.jpg",
 }
 
 # Sidebar - Numerical Inputs
