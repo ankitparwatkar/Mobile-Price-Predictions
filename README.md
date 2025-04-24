@@ -1,6 +1,4 @@
 # Mobile-Price-Predictions
-Here's a beautifully crafted README.md description for your Mobile Price Prediction App with a link to your project:
-
 📱 Mobile Price Prediction App
 
 AI-powered tool for predicting mobile phone prices using deep learning and Streamlit
